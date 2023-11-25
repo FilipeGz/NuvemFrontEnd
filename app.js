@@ -6,7 +6,7 @@ const updateProductName = document.querySelector('#update-name');
 const updateProductPrice = document.querySelector('#update-price');
 
 // let url = 'http://localhost:3000';
-let url = '100.26.36.218';
+let url = '52.4.91.150';
 
 // Function to fetch all products from the server
 async function fetchProducts() {
