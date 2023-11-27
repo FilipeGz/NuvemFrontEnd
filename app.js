@@ -6,7 +6,7 @@ const updateProductName = document.querySelector('#update-name');
 const updateProductPrice = document.querySelector('#update-price');
 
 // let url = 'http://localhost:3000';
-let url = 'http://ec2-52-4-91-150.compute-1.amazonaws.com';
+let url = 'http://ec2-52-4-91-150.compute-1.amazonaws.com:3000';
 
 // Function to fetch all products from the server
 async function fetchProducts() {
